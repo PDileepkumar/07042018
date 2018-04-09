@@ -1149,7 +1149,8 @@ section > .container-fluid {
   }
 }
 .menuzord-brand img {
-  max-height: 36px;
+ /* max-height: 0px;*/
+  margin-top: -26px;
 }
 /* -------- Inner Header ---------- */
 .inner-header .title {
